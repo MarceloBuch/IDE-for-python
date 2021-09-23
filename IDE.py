@@ -3,6 +3,7 @@ from tkinter import *
 from tkinter.filedialog import askopenfilename, asksaveasfilename
 import subprocess
 
+
 compiler = Tk()
 compiler.title('Python IDE')
 file_path = ''
